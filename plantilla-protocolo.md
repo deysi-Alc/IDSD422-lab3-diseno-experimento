@@ -4,8 +4,6 @@
 
 **Repositorio (fork):** https://github.com/deysi-Alc/IDSD422-lab3-diseno-experimento
 
-Completa cada sección. Usa commits por sección; la historia del repositorio se revisa.
-
 ## 1. Pregunta e hipótesis
 
 **Pregunta:** ¿El producto estrella vende más en promedio cuando se ubica en el pasillo principal que en su ubicación habitual, medido en ventas semanales durante 4 semanas?
